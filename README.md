@@ -31,9 +31,13 @@ This code was built upon the [code released by Eysenbach et al.](http://bit.ly/r
 ## Reference
 
 ```
-@unpublished{laskin2020sparse,
-  title={Sparse Graphical Memory for Robust Planning},
-  author={Laskin, Michael and Emmons, Scott and Jain, Ajay and Kurutach, Thanard and Abbeel, Pieter and Pathak, Deepak},
-  note={arXiv:2003.06417}
+@inproceedings{laskin2020sparse,
+  Author = {Laskin, Michael and Emmons,
+  Scott and Jain, Ajay and Kurutach, Thanard
+  and Abbeel, Pieter and Pathak, Deepak},
+  Title = {Sparse Graphical
+  Memory for Robust Planning},
+  Booktitle = {arXiv preprint arXiv:2003.06417},
+  Year = {2020}
 }
 ```
