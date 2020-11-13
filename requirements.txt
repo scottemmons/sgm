@@ -7,7 +7,7 @@ matplotlib
 networkx
 pandas
 seaborn
-tensorflow-gpu==1.15.0rc2
+tensorflow-gpu==2.4.0rc1
 tf-agents-nightly==0.4.0.dev20200127
 tf-estimator-nightly==2.0.0.dev2019101201
 tfp-nightly==0.9.0.dev20191012
