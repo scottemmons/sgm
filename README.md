@@ -31,7 +31,7 @@ This code was built upon the [code released by Eysenbach et al.](http://bit.ly/r
 ## Reference
 
 ```
-@inproceedings{laskin2020sparse,
+@inproceedings{emmons2020sparse,
   Author = {Emmons, Scott and Jain, Ajay and
   Laskin, Michael and Kurutach, Thanard
   and Abbeel, Pieter and Pathak, Deepak},
